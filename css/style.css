@@ -2797,6 +2797,10 @@ footer,
   position: relative;
 }
 
+.product-container-image img {
+  width: 100%;
+}
+
 @media (min-width: 1200px) {
   .product-layout-container {
     flex: 0 0 auto;
